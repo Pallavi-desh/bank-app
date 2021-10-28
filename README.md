@@ -1,6 +1,6 @@
 # bank-app
 Capital Banking Management App
-Capital Banking Management App is an Updated Version of Syed's Bank Version 1, Which is an Restful Web based Java Application Which allows Users to Open an account, Transfer funds to Different Accounts, Deposit Amount, Withdraw Amount and also provide facility to view previous transactions. The additioal thing I have added is Front-end Stack instead of plain console.
+Capital Banking Management App is an Updated Version of Capital Bank Version 1, Which is an Restful Web based Java Application Which allows Users to Open an account, Transfer funds to Different Accounts, Deposit Amount, Withdraw Amount and also provide facility to view previous transactions. The additioal thing I have added is Front-end Stack instead of plain console.
 
 Request and Response Work Flow
 Sending a Request
